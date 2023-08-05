@@ -1,3 +1,4 @@
+![Header](./image/github-header-image.png)
 - 👋 Hi there, This is Chengming(Steven) Li
 - :man_student: MS ECE(EC79) Student at University of California San Diego,
 - :man_student: BS ECE Student at University of Colorado Boulder,
