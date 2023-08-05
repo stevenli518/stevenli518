@@ -3,7 +3,7 @@
 - 👋 Hi there, This is Chengming(Steven) Li
 - :man_student: MS ECE(EC79) Student at University of California San Diego,
 - :man_student: BS ECE Student at University of Colorado Boulder,
-# 🌱 Currently Learning
+# Currently Learning 🌱
 - 👀 I’m interested in Hardware, Embedded System Development
 - 📚 I’m currently learning Analog Integrated Circuit Deisgn, VLSI and Modern Network 
 # Connect me @
