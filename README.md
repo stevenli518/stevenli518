@@ -1,7 +1,9 @@
 ![Header](./image/github-header-image.png)
+# Background
 - 👋 Hi there, This is Chengming(Steven) Li
 - :man_student: MS ECE(EC79) Student at University of California San Diego,
 - :man_student: BS ECE Student at University of Colorado Boulder,
+# 🌱 wWhat I am working on
 - 👀 I’m interested in Hardware, Embedded System Development
 - 🌱 I’m currently learning Analog Integrated Circuit Deisgn, VLSI and Modern Network 
 - :bulb: I’m looking to collaborate on Hardware design project
