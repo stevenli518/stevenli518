@@ -1,15 +1,35 @@
 ![Header](./image/github-header-image.png)
-# Background
+# Background <img width="35" height="35" src="https://img.icons8.com/color/48/man_reading_a_book.png" alt="man_reading_a_book"/>
 - 👋 Hi there, This is Chengming(Steven) Li
 - :man_student: MS ECE(EC79) Student at University of California San Diego,
 - :man_student: BS ECE Student at University of Colorado Boulder,
-# Currently Learning 🌱
+
+# Programming <img width="35" height="35" src="https://img.icons8.com/dusk/64/command-line.png" alt="command-line"/>
+- **Software Programming:** Python, C/C++, C#, MATLAB, SQL, HTML&CSS, Tcl
+- **HDL:** Verilog/System Verilog
+- **low-level programming:** Assembly(RISC-V)
+
+# Hardware/Equipment skills <img width="35" height="35" src="https://img.icons8.com/dusk/64/transformation-skill.png" alt="transformation-skill"/>
+- **Design/Development:** PCB design, Embedded System, FPGA design, Arduino,
+- **Communication Protocol:** I2C, SPI, UART
+- **Remote Instrument Control:** Oscilloscope, Function/RF Generator, Digital Multimeter, Spectrum
+Analyzer, Network Analyzer, PowerSupply, Temperature Controller
+- **Soldering:** Surface Mount Soldering
+
+# Software skills <img width="32" height="32" src="https://img.icons8.com/dusk/64/github.png" alt="github"/>
+-  **Circuit Design:** Altium Designer(AD), LTspice,
+-  **Digital Circuit:** Quartus, ModelSim
+-  **IDE&Document:** Simplicity Studio, VSCode, Visual Studio,MS Office,
+-  **Collaboration:** GitHub, Confluence, Lattice, Slack
+
+# Currently Learning <img width="35" height="35" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-hardware-technology-ecommerce-flaticons-lineal-color-flat-icons-2.png" alt="external-hardware-technology-ecommerce-flaticons-lineal-color-flat-icons-2"/>
 - 👀 I’m interested in Hardware, Embedded System Development
-- 📚 I’m currently learning Analog Integrated Circuit Deisgn, VLSI and Modern Network 
+- 📚 I’m currently learning Analog Integrated Circuit Deisgn, VLSI and Modern Network
+
 # Connect me @
 <a href= "http://linkedin.com/in/chengming-li-425575226"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-- :email: [MyEmail](stevenlcm16@gmail.com)
-- :santa: [Linkedin](http://linkedin.com/in/chengming-li-425575226)
+<a href= "http://sites.google.com/colorado.edu/chengming-li/home" ><img width="50" height="50" src="https://img.icons8.com/dusk/64/npc-face.png" alt="npc-face"/></a>
+- :email: stevenlcm16@gmail.com
 - :superhero_man: [Personal Portfolio](http://sites.google.com/colorado.edu/chengming-li/home)
 
 <!---
