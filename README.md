@@ -32,6 +32,8 @@ Analyzer, Network Analyzer, PowerSupply, Temperature Controller
 - :email: stevenlcm16@gmail.com
 - :superhero_man: [Personal Portfolio](http://sites.google.com/colorado.edu/chengming-li/home)
 
+![Chengming's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenli518&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenli518&theme=tokyonight)
 <!---
 stevenli518/stevenli518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
