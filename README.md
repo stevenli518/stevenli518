@@ -1,4 +1,4 @@
-![Header](./image/github-header-image.png)
+![Header](./image/github-header-image(1).png)
 # Background <img width="35" height="35" src="https://img.icons8.com/color/48/man_reading_a_book.png" alt="man_reading_a_book"/>
 - 👋 Hi there, This is Chengming(Steven) Li
 - :man_student: MS ECE(EC79) Student at University of California San Diego,
