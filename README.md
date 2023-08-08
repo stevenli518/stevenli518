@@ -2,7 +2,8 @@
 # Background <img width="35" height="35" src="https://img.icons8.com/color/48/man_reading_a_book.png" alt="man_reading_a_book"/>
 - 👋 Hi there, This is Chengming(Steven) Li
 - :man_student: MS ECE(EC79) Student at University of California San Diego,
-- :man_student: BS ECE Student at University of Colorado Boulder,
+- 👨‍💻 RF Test Engineering Intern at Eridan, Jun-Aug, 2023
+- :man_student: BS ECE Student at University of Colorado Boulder , 2018-2023
 
 # Programming <img width="35" height="35" src="https://img.icons8.com/dusk/64/command-line.png" alt="command-line"/>
 - **Software Programming:** Python, C/C++, C#, MATLAB, SQL, HTML&CSS, Tcl
