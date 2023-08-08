@@ -1,7 +1,7 @@
 ![Header](./image/github-header-image.png)
 # Background <img width="35" height="35" src="https://img.icons8.com/color/48/man_reading_a_book.png" alt="man_reading_a_book"/>
 - 👋 Hi there, This is Chengming(Steven) Li
-- :man_student: MS ECE(EC79) Student at University of California San Diego,
+- :man_student: MS ECE(EC79) Student at University of California San Diego
 - 👨‍💻 RF Test Engineering Intern at Eridan, Jun-Aug, 2023
 - :man_student: BS ECE Student at University of Colorado Boulder , 2018-2023
 
@@ -11,16 +11,16 @@
 - **low-level programming:** Assembly(RISC-V)
 
 # Hardware/Equipment skills <img width="35" height="35" src="https://img.icons8.com/dusk/64/transformation-skill.png" alt="transformation-skill"/>
-- **Design/Development:** PCB design, Embedded System, FPGA design, Arduino,
+- **Design/Development:** PCB design, Embedded System, FPGA design, Arduino
 - **Communication Protocol:** I2C, SPI, UART
 - **Remote Instrument Control:** Oscilloscope, Function/RF Generator, Digital Multimeter, Spectrum
 Analyzer, Network Analyzer, PowerSupply, Temperature Controller
 - **Soldering:** Surface Mount Soldering
 
 # Software skills <img width="32" height="32" src="https://img.icons8.com/dusk/64/github.png" alt="github"/>
--  **Circuit Design:** Altium Designer(AD), LTspice,
+-  **Circuit Design:** Altium Designer(AD), LTspice
 -  **Digital Circuit:** Quartus, ModelSim
--  **IDE&Document:** Simplicity Studio, VSCode, Visual Studio,MS Office,
+-  **IDE&Document:** Simplicity Studio, VSCode, Visual Studio,MS Office
 -  **Collaboration:** GitHub, Confluence, Lattice, Slack
 
 # Currently Learning <img width="35" height="35" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-hardware-technology-ecommerce-flaticons-lineal-color-flat-icons-2.png" alt="external-hardware-technology-ecommerce-flaticons-lineal-color-flat-icons-2"/>
