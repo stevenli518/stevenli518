@@ -30,6 +30,7 @@ Analyzer, Network Analyzer, PowerSupply, Temperature Controller
 # Connect me @
 <a href= "http://linkedin.com/in/chengming-li-425575226"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
 <a href= "http://sites.google.com/colorado.edu/chengming-li/home" ><img width="50" height="50" src="https://img.icons8.com/dusk/64/npc-face.png" alt="npc-face"/></a>
+<a href= "http://sites.google.com/colorado.edu/chengming-li/home" ><img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-job-search-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-job-search-flaticons-lineal-color-flat-icons-3"/></a>
 - :email: stevenlcm16@gmail.com
 - :superhero_man: [Personal Portfolio](http://sites.google.com/colorado.edu/chengming-li/home)
 
