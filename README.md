@@ -6,7 +6,7 @@
 - :man_student: BS ECE Student at University of Colorado Boulder , 2018-2023
 
 # Programming <img width="35" height="35" src="https://img.icons8.com/dusk/64/command-line.png" alt="command-line"/>
-- **Software Programming:** Python, C/C++, C#, MATLAB, SQL, HTML&CSS, Tcl
+- **Software Programming:** Python, C/C++, C#, MATLAB, SQL, Latex, HTML&CSS, Tcl
 - **HDL:** Verilog/System Verilog
 - **low-level programming:** Assembly(RISC-V)
 
@@ -34,7 +34,8 @@ Analyzer, Network Analyzer, PowerSupply, Temperature Controller
 - :email: stevenlcm16@gmail.com
 - :superhero_man: [Personal Portfolio](http://sites.google.com/colorado.edu/chengming-li/home)
 
-![Chengming's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenli518&theme=tokyonight&show_icons=true)
+
+<!-- ![Chengming's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenli518&theme=tokyonight&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenli518&theme=tokyonight)
 <!---
 stevenli518/stevenli518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
