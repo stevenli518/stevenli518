@@ -25,14 +25,14 @@ Analyzer, Network Analyzer, PowerSupply, Temperature Controller
 
 # Currently Learning <img width="35" height="35" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-hardware-technology-ecommerce-flaticons-lineal-color-flat-icons-2.png" alt="external-hardware-technology-ecommerce-flaticons-lineal-color-flat-icons-2"/>
 - 👀 I’m interested in Hardware, Embedded System Development
-- 📚 I’m currently learning Analog Integrated Circuit Deisgn, VLSI and Modern Network
+- 📚 I’m currently learning Serdes and RF circuit Design
 
 # Connect me @
 <a href= "http://linkedin.com/in/chengming-li-425575226"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-<a href= "http://sites.google.com/colorado.edu/chengming-li/home" ><img width="50" height="50" src="https://img.icons8.com/dusk/64/npc-face.png" alt="npc-face"/></a>
-<a href= "https://github.com/stevenli518/stevenli518/blob/main/image/ChengmingLi_Resume_EE.pdf" ><img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-job-search-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-job-search-flaticons-lineal-color-flat-icons-3"/></a>
+<a href= "https://stevenlcm16.wixsite.com/chengmingli-steven" ><img width="50" height="50" src="https://img.icons8.com/dusk/64/npc-face.png" alt="npc-face"/></a>
+<a href= "https://github.com/stevenli518/stevenli518/blob/main/image/ChengmingLi_Resume.pdf" ><img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-job-search-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-job-search-flaticons-lineal-color-flat-icons-3"/></a>
 - :email: stevenlcm16@gmail.com
-- :superhero_man: [Personal Portfolio](http://sites.google.com/colorado.edu/chengming-li/home)
+- :superhero_man: [Personal Portfolio](https://stevenlcm16.wixsite.com/chengmingli-steven)
 
 
 <!-- ![Chengming's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenli518&theme=tokyonight&show_icons=true) -->
